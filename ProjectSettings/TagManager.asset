@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Projectile
+  - Enemy
+  - EnemyChild
+  - PlayerChild
+  - PlayerStats
+  - SpeedBuff
+  - FireRateBuff
+  - HealthBuff
+  - ArmorBuff
+  - EnemyProjectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Fence
+  - Player
+  - Projectile
+  - Enemy
+  - PlayerChild
+  - EnemyChild
+  - PlayerStats
+  - Buff
+  - EnemyProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 822374343
+    locked: 0
+  - name: Fence
+    uniqueID: 1300064693
+    locked: 0
+  - name: Projectile
+    uniqueID: 2508921307
+    locked: 0
+  - name: Player&Enemy
+    uniqueID: 3778241037
+    locked: 0
+  - name: Player&EnemyHealthBar
+    uniqueID: 709913901
+    locked: 0
